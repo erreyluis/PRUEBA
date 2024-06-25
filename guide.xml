@@ -1,29 +1,339 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT">
+    <display-name lang="es">TNT HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
   <channel id="AMC">
     <display-name lang="es">AMC HD</display-name>
     <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/67d8046a662a685bf76e023583b6c355.jpg" />
     <url>http://www.claro.com.co</url>
   </channel>
-  <channel id="AXN HD(AXNHD)(209)">
-    <display-name lang="es">AXN HD</display-name>
-    <url>http://www.directv.com.co</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="es">TNT HD</display-name>
-    <url>http://www.movistar.co</url>
-  </channel>
-  <channel id="WARNER CHANNEL HD">
+  <channel id="WARNER CHANNEL">
     <display-name lang="es">Warner Channel HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/883622cc06dd83ff31ef053fa09b8118.jpg" />
     <url>http://www.claro.com.co</url>
   </channel>
-  <programme start="20240625185000 +0000" stop="20240625204500 +0000" channel="AMC">
-    <title lang="es">Mi Vida En Grecia</title>
+  <channel id="AXN">
+    <display-name lang="es">AXN HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/941527e6e4647a9ebc7ae1cf0ae278c5.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <programme start="20240625204100 +0000" stop="20240625223700 +0000" channel="TNT">
+    <title lang="es">Hombres De Negro 3</title>
+    <desc lang="es">Boris, un criminal extraterrestre que es el último de su raza, se escapa de una cárcel de máxima seguridad en la Luna y viaja a la tierra con el objetivo de vengarse del Agente K de los Hombres de Negro, quien lo capturó en 1969 y lo dejó sin un brazo. Esta venganza consiste en viajar hacia aquel año y asesinarlo, lo cual también provoca que en el presente la Tierra quede en peligro de una invasión extraterrestre que K había impedido. El agente J deberá viajar al pasado y detener a Boris antes de que sea demasiado tarde.(n)</desc>
+  </programme>
+  <programme start="20240625223700 +0000" stop="20240626004900 +0000" channel="TNT">
+    <title lang="es">Pasajeros</title>
+    <desc lang="es">En un viaje de rutina a través del espacio para llegar a un nuevo hogar, dos pasajeros quienes duermen en animación suspendida, son despertados 90 años antes de lo previsto, cuando la nave tiene una descompostura. Mientras Jim y Aurora deben enfrentar la realidad de vivir el resto de sus vidas a bordo, con todos los lujos que podrían pedir, comienzan a enamorarse incapaces de negar su gran atracción, hasta que descubren que la nave se encuentra en grave peligro. Con las vidas de 5,000 pasajeros en peligro, sólo Jim y Aurora pueden salvarlos a todos.(n)</desc>
+  </programme>
+  <programme start="20240626202000 +0000" stop="20240626223100 +0000" channel="TNT">
+    <title lang="es">Olimpo Bajo Fuego</title>
+    <desc lang="es">Mike Banning está encargado de proteger al Presidente de Estados Unidos. Tras un evento traumático decide dejar su trabajo, pero un grupo terrorista ataca la Casa Blanca y Banning tendrá que volver a la acción, por el jefe de Estado y por su país.(n)</desc>
+  </programme>
+  <programme start="20240626223100 +0000" stop="20240627003200 +0000" channel="TNT">
+    <title lang="es">Ghost in the Shell: vigilante del futuro</title>
+    <desc lang="es">Thriller futurista basado en el famoso manga japonés y protagonizado por Scarlett Johansson, quien interpreta a una policía cyborg obsesionada con atrapar a un hacker infame.(n)</desc>
+  </programme>
+  <programme start="20240627203600 +0000" stop="20240627225800 +0000" channel="TNT">
+    <title lang="es">Colateral: Lugar Y Tiempo Equivocado</title>
+    <desc lang="es">Max (Jamie Foxx) es un taxista que emprende un viaje que cambiará todo cuando Vincent (Tom Cruise) le ofrece una suma considerable en efectivo a cambio de hacer varias paradas a lo largo del trayecto. Pero lo que comienza como una velada auspiciosa pronto se convierte en una noche desesperada cuando Max se da cuenta de que las paradas de Vincent no son simples trámites. Así Max se convierte en rehén de un asesino a sueldo tan calmado como implacable. Ahora debe hallar la manera de detener las muertes --y sobrevivir. El aclamado director Michael Mann brinda su inconfundible estética a este thriller estilizado que cuenta con una actuación cautivante de Cruise, una interpretación nominada al Oscar de Foxx y participaciones de Jada Pinkett Smith, Mark Ruffalo y Peter Berg.(n)</desc>
+  </programme>
+  <programme start="20240627225800 +0000" stop="20240628003300 +0000" channel="TNT">
+    <title lang="es">Vuelo Nocturno</title>
+    <desc lang="es">A Lisa Reisert (Rachel McAdams) no la entusiasma su vuelo nocturno a Miami. Sin embargo, ni se imagina que hay una razón para temerlo que no tiene nada que ver con el miedo a volar. El viaje pronto se convierte en una pesadilla cuando su compañero de asiento (Cillian Murphy) le revela sus intenciones de forzarla a cooperar en un intento de asesinato. Será ella capaz de frustrarlo antes de que sea demasiado tarde? Tras vigorizar el género del terror, el director Wes Craven aplica su habilidad para inducir miedo a este film lleno de suspenso que te mantendrá en vilo hasta el final.(n)</desc>
+  </programme>
+  <programme start="20240628195000 +0000" stop="20240628222300 +0000" channel="TNT">
+    <title lang="es">Karate Kid</title>
+    <desc lang="es">Daniel Larusso, un joven humillado por sus compañeros decide tomar lecciones de artes marciales para defenderse. Junto a su instructor el místico maestro japonés Miyagi, Daniel conseguirá la seguridad para sobreponerse a todos los obstáculos.(n)</desc>
+  </programme>
+  <programme start="20240628222300 +0000" stop="20240629003600 +0000" channel="TNT">
+    <title lang="es">Karate Kid 2</title>
+    <desc lang="es">Daniel acompaña a su maestro de artes marciales, Miyagi, a Okinawa al enterarse de que su padre agoniza. Por desgracia, el regreso de Miyagi a Okinawa desata la ira de un antiguo enemigo. Ahora, maestro y discípulo enfrentarán el mayor de los retos.(n)</desc>
+  </programme>
+  <programme start="20240629190500 +0000" stop="20240629213400 +0000" channel="TNT">
+    <title lang="es">Karate Kid 2</title>
+    <desc lang="es">Daniel acompaña a su maestro de artes marciales, Miyagi, a Okinawa al enterarse de que su padre agoniza. Por desgracia, el regreso de Miyagi a Okinawa desata la ira de un antiguo enemigo. Ahora, maestro y discípulo enfrentarán el mayor de los retos.(n)</desc>
+  </programme>
+  <programme start="20240629213400 +0000" stop="20240630000600 +0000" channel="TNT">
+    <title lang="es">Karate Kid Iii: El Desafío Final</title>
+    <desc lang="es">Daniel debe defender su título como campeón en un combate peligroso. Miyagi, su sabio maestro, repudia el desafío. Daniel, engañado por Kreese, ignora los consejos de Miyagi y acepta a un nuevo guía hasta que descubre que es víctima de una gran trampa.(n)</desc>
+  </programme>
+  <programme start="20240630202000 +0000" stop="20240630223500 +0000" channel="TNT">
+    <title lang="es">El Gran Maestro 3</title>
+    <desc lang="es">En los años 50, en Hong Kong, una mafia ligada al negocio de la construcción amenaza una escuela de kung fu. Un maestro en artes marciales (Donnie Yen, xXx: Reactivado) le hace frente, mientras su liderazgo es desafiado por otro experto. Tercera pieza de la saga de Ip Man.(n)</desc>
+  </programme>
+  <programme start="20240630223500 +0000" stop="20240701005600 +0000" channel="TNT">
+    <title lang="es">El Gran Maestro 4</title>
+    <desc lang="es">Para buscar un futuro mejor para su hijo, Ip Man decide viajar a los EE. UU. Solo para descubrir que la vida estable y pacífica en el extranjero es superficial. Debajo hay una discriminación racial muy arraigada que es mucho peor de lo que él esperaba.(n)</desc>
+  </programme>
+  <programme start="20240701195900 +0000" stop="20240701214400 +0000" channel="TNT">
+    <title lang="es">Usted No Sabe Quien Soy Yo 2</title>
+    <desc lang="es">Ricardo, Crist y Valentino siguen metiéndose en problemas y parecen no haber aprendido nada! Ricardo necesita dinero y que su carrera de humorista despegue, pero la fama llega de la peor manera cuando un vergonzoso video se hace viral en todo el mundo. Ahora para salvar su relación con Margarita debe solucionar 3 problemitas: la intensidad de su mamá, el terapeuta de pareja que tiene encantada a su novia, y Úrsula más conocida como la Ayayay-, una hermosa y seductora manager que quiere llevárselo a España.(n)</desc>
+  </programme>
+  <programme start="20240701214400 +0000" stop="20240701232500 +0000" channel="TNT">
+    <title lang="es">El Paseo</title>
+    <desc lang="es">Después de 11 años de trabajo continuo, Alex Peinado decide pasar unas vacaciones inolvidables junto a su familia. Así que emprende un viaje en carro rumbo a Cartagena, junto a su esposa, sus dos hijos adolescentes, su perro Káiser y hasta su insufrible suegra. Pero el viaje no es su única motivación, Alex oculta un plan que le exige llegar a su destino puntualmente. Sin embargo el recorrido se convertirá en la más increíble aventura que, aunque pondrá en riesgo su llegada a la Costa, le dará a su familia la más extraordinaria lección de vida.(n)</desc>
+  </programme>
+  <programme start="20240701232500 +0000" stop="20240702011100 +0000" channel="TNT">
+    <title lang="es">El Paseo 2</title>
+    <desc lang="es">En la segunda entrega de la franquicia El Paseo, las idílicas vacaciones en la playa de la familia Calvo toman un rumbo disparatado cuando el padre de familia (John Leguizamo) se vuelve loco de celos al toparse con el exnovio de su esposa.(n)</desc>
   </programme>
   <programme start="20240625204500 +0000" stop="20240625224000 +0000" channel="AMC">
     <title lang="es">Loco Por Ella</title>
+    <desc lang="es">Siete años después del hecho, un hombre se da cuenta de que él era el donante de esperma del hijo de su mejor amiga.(n)</desc>
   </programme>
   <programme start="20240625224000 +0000" stop="20240626004000 +0000" channel="AMC">
     <title lang="es">Tonto Y Retonto 2</title>
+    <desc lang="es">20 años después de su primera aventura, Lloyd y Harry emprenden un viaje por carretera para encontrar a la hija recién descubierta de Harry, que fue dada en adopción.(n)</desc>
+  </programme>
+  <programme start="20240626205000 +0000" stop="20240626231000 +0000" channel="AMC">
+    <title lang="es">El Hombre De La Máscara De Hierro</title>
+    <desc lang="es">Cuando los excesos egoístas del arrogante rey Luis XIV de Francia comienzan a amenazar la vida de sus súbditos, los legendarios mosqueteros deben reunirse para salvar su país una vez más. La clave de su plan? Un misterioso prisionero enmascarado, que puede ser la única esperanza verdadera de Francia.(n)</desc>
+  </programme>
+  <programme start="20240626231000 +0000" stop="20240627005000 +0000" channel="AMC">
+    <title lang="es">Apuesta Máxima</title>
+    <desc lang="es">Cuando un estudiante universitario sin demasiados recursos económicos descifra que el juego de póquer on-line donde apostó quiebra, organiza un encuentro personal con el hombre que cree que lo engañó, un astuto empresario extranjero.(n)</desc>
+  </programme>
+  <programme start="20240627195500 +0000" stop="20240627214000 +0000" channel="AMC">
+    <title lang="es">La Persecución</title>
+    <desc lang="es">En el desierto de Mojave, un guía de caza desnudo y desarmado huye de un adinerado cazador que quiere asegurar su silencio ante la muerte de un anciano.(n)</desc>
+  </programme>
+  <programme start="20240627214000 +0000" stop="20240627233000 +0000" channel="AMC">
+    <title lang="es">Falsa Identidad</title>
+    <desc lang="es">El periodista caído en desgracia Michael Finkel se encuentra con el asesino acusado que ha asumido la identidad de Finkel.(n)</desc>
+  </programme>
+  <programme start="20240627233000 +0000" stop="20240628010500 +0000" channel="AMC">
+    <title lang="es">Leones Por Corderos</title>
+    <desc lang="es">Las heridas sufridas por dos guardabosques del ejército detrás de las líneas enemigas en Afganistán, desencadenaron una secuencia de eventos que involucraron a un congresista, una periodista y un profesor.(n)</desc>
+  </programme>
+  <programme start="20240628202500 +0000" stop="20240628222000 +0000" channel="AMC">
+    <title lang="es">Mi Verdadero Yo</title>
+    <desc lang="es">La estrella de fútbol, Charlie, es una chica atrapada en un cuerpo masculino. Cuando por fin decide vivir la vida a su manera es rechazada por su padre y por sus compañeros de equipo, así que se iniciará una vida para ella.(n)</desc>
+  </programme>
+  <programme start="20240628222000 +0000" stop="20240629002000 +0000" channel="AMC">
+    <title lang="es">Cartas A Julieta</title>
+    <desc lang="es">Sophie sueña con convertirse en escritora y viaja a Verona, Italia, donde conoce a las Secretarias de Julieta.(n)</desc>
+  </programme>
+  <programme start="20240629194000 +0000" stop="20240629212000 +0000" channel="AMC">
+    <title lang="es">Guerra De Novias</title>
+    <desc lang="es">En el día de sus bodas, dos amigas se enfrentan en una guerra total por un error administrativo.(n)</desc>
+  </programme>
+  <programme start="20240629212000 +0000" stop="20240629232000 +0000" channel="AMC">
+    <title lang="es">Encuentro Explosivo</title>
+    <desc lang="es">June conoce a un personaje misterioso y cree haber encontrado al hombre de sus sueños. Sin embargo, pronto descubre que es un superespía fugitivo, quien la envuelve en una emocionante persecución por todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20240629232000 +0000" stop="20240630010500 +0000" channel="AMC">
+    <title lang="es">Maestras Del Engaño</title>
+    <desc lang="es">Dos estafadoras, una de los barrios bajos y otra de clase alta, se unen para acabar con los hombres que las han agraviado.(n)</desc>
+  </programme>
+  <programme start="20240630210500 +0000" stop="20240630225500 +0000" channel="AMC">
+    <title lang="es">Legalmente Rubia 2</title>
+    <desc lang="es">Elle Woods, una elegante reina de la hermandad de mujeres, es abandonada por su novio. Ella decide seguirlo a la facultad de derecho. Mientras está allí, se dá cuenta de que hay más en ella que sólo apariencia.(n)</desc>
+  </programme>
+  <programme start="20240630225500 +0000" stop="20240701010000 +0000" channel="AMC">
+    <title lang="es">La Saga Crepúsculo: Amanecer - Parte 1</title>
+    <desc lang="es">Los Quileute se acercan a los futuros padres Edward y Bella, cuyo hijo no nacido representa una amenaza para la manada de lobos y la gente del pueblo de Forks.(n)</desc>
+  </programme>
+  <programme start="20240701170000 +0000" stop="20240701230000 +0000" channel="AMC">
+    <title lang="es">AMC</title>
+    <desc lang="es">Programación AMC.(n)</desc>
+  </programme>
+  <programme start="20240701230000 +0000" stop="20240702050000 +0000" channel="AMC">
+    <title lang="es">AMC</title>
+    <desc lang="es">Programación AMC.(n)</desc>
+  </programme>
+  <programme start="20240625205300 +0000" stop="20240625212500 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos deciden defender el planeta de una arremetida de enemigos intergalácticos.(n)</desc>
+  </programme>
+  <programme start="20240625212500 +0000" stop="20240625215500 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos deciden defender el planeta de una arremetida de enemigos intergalácticos.(n)</desc>
+  </programme>
+  <programme start="20240625215500 +0000" stop="20240625222600 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Los Caballeros Del Zodiaco</title>
+    <desc lang="es">Un grupo de jóvenes guerreros llamados Santos, cada uno protegido por una constelación diferente, debe proteger la reencarnación de la diosa Atenea y evitar que la Tierra sea destruida.(n)</desc>
+  </programme>
+  <programme start="20240625222600 +0000" stop="20240626003700 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Miss Simpatía</title>
+    <desc lang="es">En esta divertida comedia, Sandra Bullock interpreta a Gracie Hart, una desalineada y agresiva agente del FBI que debe enfrentar la difícil misión de convertirse en una elegante modelo para infiltrarse como participante en el concurso de belleza Miss Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240626205700 +0000" stop="20240626212800 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos deciden defender el planeta de una arremetida de enemigos intergalácticos.(n)</desc>
+  </programme>
+  <programme start="20240626212800 +0000" stop="20240626215800 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Los Caballeros Del Zodiaco</title>
+    <desc lang="es">Un grupo de jóvenes guerreros llamados Santos, cada uno protegido por una constelación diferente, debe proteger la reencarnación de la diosa Atenea y evitar que la Tierra sea destruida.(n)</desc>
+  </programme>
+  <programme start="20240626215800 +0000" stop="20240627002100 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Miss Simpatía 2: Armada Y Fabulosa</title>
+    <desc lang="es">Luego de participar como agente encubierta en un concurso de belleza, la nueva estrella del FBI, Gracie Hart, es asignada al departamento de relaciones públicas. Sin embargo, el secuestro de dos amigos será razón suficiente para volver a la acción.(n)</desc>
+  </programme>
+  <programme start="20240627205500 +0000" stop="20240627212600 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos deciden defender el planeta de una arremetida de enemigos intergalácticos.(n)</desc>
+  </programme>
+  <programme start="20240627212600 +0000" stop="20240627215600 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Goku y sus amigos deciden defender el planeta de una arremetida de enemigos intergalácticos.(n)</desc>
+  </programme>
+  <programme start="20240627215600 +0000" stop="20240627222600 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Los Caballeros Del Zodiaco</title>
+    <desc lang="es">Un grupo de jóvenes guerreros llamados Santos, cada uno protegido por una constelación diferente, debe proteger la reencarnación de la diosa Atenea y evitar que la Tierra sea destruida.(n)</desc>
+  </programme>
+  <programme start="20240627222600 +0000" stop="20240628004800 +0000" channel="WARNER CHANNEL">
+    <title lang="es">En El Corazón Del Mar</title>
+    <desc lang="es">La tripulación del Essex, un barco ballenero, deberá hacer lo imposible para sobrevivir en una isla desierta luego de sufrir un brutal ataque de la gigantesca ballena blanca que sirvió de inspiración para la novela clásica Moby Dick. Dirigida por el ganador del Oscar Ron Howard (Una Mente Brillante), y protagonizada por Chris Hemsworth (Thor), Cillian Murphy (Batman Inicia, El Origen), y Brendan Gleeson (Troya, Corazón Valiente).(n)</desc>
+  </programme>
+  <programme start="20240628201300 +0000" stop="20240628225100 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Un Sueño Posible</title>
+    <desc lang="es">Sandra Bullock ganó su primer Oscar al interpretar el papel de una bondadosa y decidida ama de casa que adopta a un adolescente sin techo y lo ayuda a convertirse en un exitoso atleta. Michael Big Mike Oher no tiene idea de quien sea su padre. Su madre es drogadicta. Él fue muy poco a la escuela y no posee muchas habilidades. Pero su madre adoptiva, apoyada por su familia pudiente, pronto se hace cargo y se compromete a darle al chico todas las oportunidades para que pueda vencer. Cuando Michael muestra interés por el fútbol americano, ella se dedica a ayudarlo e incluso le da al técnico algunas ideas de cómo aprovechar mejor las habilidades del muchacho.(n)</desc>
+  </programme>
+  <programme start="20240628225100 +0000" stop="20240629010800 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Una Esposa De Mentira</title>
+    <desc lang="es">Danny es un exitoso cirujano plástico que miente constantemente para conquistar mujeres. Pero esto se convierte en un gran problema cuando conoce a la mujer de sus sueños. Para cubrir sus mentiras y acercarse a ella, Danny les pide a su leal asistente y a sus hijos que simulen ser su familia. Cuando se desatan más mentiras, viajan todos juntos a Hawái, donde vivirán un fin de semana alocado y fuera de lo común.(n)</desc>
+  </programme>
+  <programme start="20240629202300 +0000" stop="20240629225200 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Pasante De Moda</title>
+    <desc lang="es">Chip de da a Dory su propia versión torcida de los eventos que provocaron que se unieran. Cuando el grupo comienza a sospechar que hay más detrás de la ausencia de Dory, se preparan para salir a buscarla.(n)</desc>
+  </programme>
+  <programme start="20240629225200 +0000" stop="20240630005700 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Son Como Niños</title>
+    <desc lang="es">Un grupo de amigos de la infancia se reúne el fin de semana del 4 de julio para rendirle tributo a su recién fallecido entrenador de basquetbol del colegio. Si bien estos cinco amigos ahora son hombres de negocios y padres de familia, nada impedirá que dejen salir a su niño interior para disfrutar a lo grande y revivir los buenos viejos tiempos. Pronto descubrirán que envejecer no significa necesariamente haber madurado.(n)</desc>
+  </programme>
+  <programme start="20240630205500 +0000" stop="20240630225800 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Qué Pasó Ayer</title>
+    <desc lang="es">Cuando tres amigos se juntan para celebrar una última despedida de soltero en Las Vegas, piensan que la pasaron de maravilla. Pero casi no recuerdan qué sucedió y sufren los efectos secundarios de las chicas, la fiesta y el alcohol. Poco después descubren que han perdido al novio! Ahora, deben seguir el rastro de su alocado fin de semana para encontrar a su amigo y llevar al novio a la boda a tiempo, aunque tengan que sufrir una tremenda cruda.(n)</desc>
+  </programme>
+  <programme start="20240630225800 +0000" stop="20240701005400 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Qué Pasó Ayer? Parte II</title>
+    <desc lang="es">Listo para otra ronda? en la secuela de esta exitosa comedia, Phil, Stu, Alan y Doug viajan a la exótica Tailandia para la boda de Stu. Después de la inolvidable fiesta de despedida de soltero de Doug en Las Vegas, Stu no quiere correr ningún riesgo y ha optado por tener un tranquilo brunch antes de la boda. Sin embargo, las cosas no siempre salen como un quiere. Lo que pasa en Las Vegas podrá quedarse en Las Vegas, pero lo que pasa en Bangkok, es inimaginable.. piensa en monos, tatuajes y el regreso de Mr. Chow.(n)</desc>
+  </programme>
+  <programme start="20240701211200 +0000" stop="20240701214100 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Los Caballeros Del Zodiaco</title>
+    <desc lang="es">Un grupo de jóvenes guerreros llamados Santos, cada uno protegido por una constelación diferente, debe proteger la reencarnación de la diosa Atenea y evitar que la Tierra sea destruida.(n)</desc>
+  </programme>
+  <programme start="20240701214100 +0000" stop="20240701234400 +0000" channel="WARNER CHANNEL">
+    <title lang="es">Megalodón</title>
+    <desc lang="es">En este thriller protagonizado por Jason Statham, un grupo de científicos que intenta descubrir los secretos del océano libera accidentalmente a un Megalodón, un tiburón prehistórico gigante que se creía extinto hace millones de años. Ahora deberán arriesgar sus vidas para evitar una masacre masiva en las costas del Pacífico.(n)</desc>
+  </programme>
+  <programme start="20240701234400 +0000" stop="20240702021000 +0000" channel="WARNER CHANNEL">
+    <title lang="es">El Rey Arturo: La Leyenda De La Espada</title>
+    <desc lang="es">Luego del asesinato de su padre, Vortigern, tío del joven Arturo y alguien hambriento de poder, se apodera de la corona. Despojado de su derecho natural, Arturo crece por las malas en los callejones de la ciudad sin saber quién es realmente. Cuando el destino lo lleva a sacar la espada Excalibur de una piedra, Arturo abraza su verdadero destino: el de convertirse en un gran luchador y un líder legendario.(n)</desc>
+  </programme>
+  <programme start="20240625205000 +0000" stop="20240625214000 +0000" channel="AXN">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Horatio Caine es el jefe del equipo de investigaciones forenses, metódico y controlado, que siempre captura junto a su equipo al culpable gracias a la ciencia y la tecnología.(n)</desc>
+  </programme>
+  <programme start="20240625214000 +0000" stop="20240625223000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240625223000 +0000" stop="20240625232000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240625232000 +0000" stop="20240626001000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240626205000 +0000" stop="20240626214000 +0000" channel="AXN">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Horatio Caine es el jefe del equipo de investigaciones forenses, metódico y controlado, que siempre captura junto a su equipo al culpable gracias a la ciencia y la tecnología.(n)</desc>
+  </programme>
+  <programme start="20240626214000 +0000" stop="20240626223000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240626223000 +0000" stop="20240626232000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240626232000 +0000" stop="20240627001000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240627205000 +0000" stop="20240627214000 +0000" channel="AXN">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Horatio Caine es el jefe del equipo de investigaciones forenses, metódico y controlado, que siempre captura junto a su equipo al culpable gracias a la ciencia y la tecnología.(n)</desc>
+  </programme>
+  <programme start="20240627214000 +0000" stop="20240627223000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240627223000 +0000" stop="20240627232000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240627232000 +0000" stop="20240628001000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240628205000 +0000" stop="20240628214000 +0000" channel="AXN">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Horatio Caine es el jefe del equipo de investigaciones forenses, metódico y controlado, que siempre captura junto a su equipo al culpable gracias a la ciencia y la tecnología.(n)</desc>
+  </programme>
+  <programme start="20240628214000 +0000" stop="20240628223000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240628223000 +0000" stop="20240628232000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240628232000 +0000" stop="20240629001000 +0000" channel="AXN">
+    <title lang="es">Hawai 5.0</title>
+    <desc lang="es">Los detectives son parte de la tarea esencial de eliminar el crimen en las playas del estado Aloha.(n)</desc>
+  </programme>
+  <programme start="20240629210500 +0000" stop="20240629220000 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240629220000 +0000" stop="20240629225500 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240629225500 +0000" stop="20240629235000 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240629235000 +0000" stop="20240630004500 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240630205000 +0000" stop="20240630214000 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240630214000 +0000" stop="20240630223000 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240630223000 +0000" stop="20240630232000 +0000" channel="AXN">
+    <title lang="es">Criminal Minds</title>
+    <desc lang="es">Para poder atrapar al culpable, debes transformarte en él, pensar como él, entenderlo hasta saber cuál será su próximo paso... porque suele suceder que ese homicida múltiple que aterroriza a una ciudad, también está deseoso de ser capturado de una buena vez. Retando al peligro, el equipo de Criminal Minds une esfuerzos para encajar en el perfil de los más retorcidos maleantes de Estados Unidos.(n)</desc>
+  </programme>
+  <programme start="20240630232000 +0000" stop="20240701001000 +0000" channel="AXN">
+    <title lang="es">CSI: Miami</title>
+    <desc lang="es">Horatio Caine es el jefe del equipo de investigaciones forenses, metódico y controlado, que siempre captura junto a su equipo al culpable gracias a la ciencia y la tecnología.(n)</desc>
+  </programme>
+  <programme start="20240701205000 +0000" stop="20240701214000 +0000" channel="AXN">
+    <title lang="es">CSI</title>
+    <desc lang="es">Un grupo de científicos forenses liderizado por Gil Grissom trabajan en la ciudad norteamericana de Las Vegas (Nevada) investigando los crímenes que en ella suceden. Cada episodio representa un reto para descifrar las pistas y seguir el rastro de los criminales más sofisticados. Los especialistas, rodeados de la más avanzada tecnología y de modernas técnicas encuentran a los culpables mientras sus vidas personales se desarrollan.(n)</desc>
+  </programme>
+  <programme start="20240701214000 +0000" stop="20240701223000 +0000" channel="AXN">
+    <title lang="es">CSI</title>
+    <desc lang="es">Un grupo de científicos forenses liderizado por Gil Grissom trabajan en la ciudad norteamericana de Las Vegas (Nevada) investigando los crímenes que en ella suceden. Cada episodio representa un reto para descifrar las pistas y seguir el rastro de los criminales más sofisticados. Los especialistas, rodeados de la más avanzada tecnología y de modernas técnicas encuentran a los culpables mientras sus vidas personales se desarrollan.(n)</desc>
+  </programme>
+  <programme start="20240701223000 +0000" stop="20240701232000 +0000" channel="AXN">
+    <title lang="es">CSI</title>
+    <desc lang="es">Un grupo de científicos forenses liderizado por Gil Grissom trabajan en la ciudad norteamericana de Las Vegas (Nevada) investigando los crímenes que en ella suceden. Cada episodio representa un reto para descifrar las pistas y seguir el rastro de los criminales más sofisticados. Los especialistas, rodeados de la más avanzada tecnología y de modernas técnicas encuentran a los culpables mientras sus vidas personales se desarrollan.(n)</desc>
+  </programme>
+  <programme start="20240701232000 +0000" stop="20240702001000 +0000" channel="AXN">
+    <title lang="es">CSI</title>
+    <desc lang="es">Un grupo de científicos forenses liderizado por Gil Grissom trabajan en la ciudad norteamericana de Las Vegas (Nevada) investigando los crímenes que en ella suceden. Cada episodio representa un reto para descifrar las pistas y seguir el rastro de los criminales más sofisticados. Los especialistas, rodeados de la más avanzada tecnología y de modernas técnicas encuentran a los culpables mientras sus vidas personales se desarrollan.(n)</desc>
   </programme>
 </tv>
