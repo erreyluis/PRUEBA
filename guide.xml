@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="es">AMC HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/67d8046a662a685bf76e023583b6c355.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="AXN HD(AXNHD)(209)">
+    <display-name lang="es">AXN HD</display-name>
+    <url>http://www.directv.com.co</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="WARNER CHANNEL HD">
+    <display-name lang="es">Warner Channel HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <programme start="20240625185000 +0000" stop="20240625204500 +0000" channel="AMC">
+    <title lang="es">Mi Vida En Grecia</title>
+  </programme>
+  <programme start="20240625204500 +0000" stop="20240625224000 +0000" channel="AMC">
+    <title lang="es">Loco Por Ella</title>
+  </programme>
+  <programme start="20240625224000 +0000" stop="20240626004000 +0000" channel="AMC">
+    <title lang="es">Tonto Y Retonto 2</title>
+  </programme>
+</tv>
