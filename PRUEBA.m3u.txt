@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/210.png" group-title="cine y serie",AMC HD
+http://190.61.55.186:1010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-ID="AXN" tvg-name="AXN" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png" group-title="cine y serie",AXN HD
+http://190.61.55.186:1010/play/a01i/index.m3u8
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1502.png" group-title="cine y serie",TNT HD
+http://190.61.55.186:1010/play/a01w/index.m3u8
+#EXTINF:-1 tvg-ID="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1206.png" group-title="cine y serie",Warner Channel HD
+http://190.61.55.186:1010/play/a01h/index.m3u8
